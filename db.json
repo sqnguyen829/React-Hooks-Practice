@@ -1,0 +1,28 @@
+{
+    "dogs": [
+        {
+            "id":1,
+            "breed":"chihuahua",
+            "name":"Chewy",
+            "desc":"light brown"
+        },
+        {
+            "id":2,
+            "breed":"german shepherd",
+            "name":"Sky",
+            "desc":"black with some brown spots"
+        },
+        {
+            "id":3,
+            "breed":"corgi",
+            "name":"Moose",
+            "desc":"light brown with white spots"
+        },
+        {
+            "id":4,
+            "breed":"shiba",
+            "name":"Hero",
+            "desc":"light brown with white under belly"
+        }
+    ]
+}
